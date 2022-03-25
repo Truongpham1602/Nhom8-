@@ -1,4 +1,4 @@
-package demo1;
+package TestChuyenDe;
 
 import static org.junit.Assert.fail;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -10,6 +10,8 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
+
+import Model.ChuyenDe;
 
 @Generated(value = "org.junit-tools-1.1.0")
 public class ChuyenDeTest {
